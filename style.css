@@ -1,0 +1,89 @@
+.img--hamburger
+{
+    width: 50px;
+    height: 50px;
+
+}
+.khoi1{
+    display: flex;
+}
+
+.burger--cake{
+    margin-left: 10px;
+}
+
+.khoi2--nav{
+ margin-left: 500px;
+ margin-top: 80px;
+}
+
+.khoi2--ul{
+    display: flex;
+}
+li{
+    list-style-type: none;
+    margin-left: 20px;
+ 
+
+}
+a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.header{
+    display: flex;
+   
+    max-width: 1200px;
+    margin-left: 100px;
+}
+.phandau{
+   background: url(./img/hinh-04.png);
+    height: 750px;
+}
+
+.item1--p{
+    font-weight: 500;
+    text-align: center;
+    padding-top: 10px;
+    width: 440px;
+    height: 30px;
+    border: 2px dashed;
+    margin-left: 100px;
+}
+
+span{
+    font-size: 50px;
+}
+
+.burger{
+   width: 200px;
+  font-size: 100px;
+  color: #412009;
+  margin-left: 100px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}   
+
+.phanthan{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.hinh1{
+    border-radius: 10px;
+}
+
+.hinh2{
+    border-radius: 10px;
+}
+
+.item2{
+    margin-left: 30px;
+}
+
+ .a{
+    margin-top: 20px;
+}
